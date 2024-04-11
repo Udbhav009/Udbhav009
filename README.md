@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM…](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif))]
+[![MasterHead]([[https://1.bp.blogspot.com/-7A4WynwLsM…](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif))](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)]
 
 <h1 align="center">Hi 👋, I'm Udbhav Chandra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
